@@ -1,0 +1,17 @@
+D:\SaneiStore\SaneiStore\obj\Debug\SaneiStore.csprojAssemblyReference.cache
+D:\SaneiStore\SaneiStore\obj\Debug\SaneiStore.Properties.Resources.resources
+D:\SaneiStore\SaneiStore\obj\Debug\SaneiStore.csproj.GenerateResource.cache
+D:\SaneiStore\SaneiStore\bin\Debug\SaneiStore.exe.config
+D:\SaneiStore\SaneiStore\bin\Debug\SaneiStore.exe
+D:\SaneiStore\SaneiStore\bin\Debug\SaneiStore.pdb
+D:\SaneiStore\SaneiStore\bin\Debug\EntityFramework.dll
+D:\SaneiStore\SaneiStore\bin\Debug\EntityFramework.SqlServer.dll
+D:\SaneiStore\SaneiStore\bin\Debug\EntityFramework.xml
+D:\SaneiStore\SaneiStore\bin\Debug\EntityFramework.SqlServer.xml
+D:\SaneiStore\SaneiStore\obj\Debug\SaneiStore.csproj.CopyComplete
+D:\SaneiStore\SaneiStore\obj\Debug\SaneiStore.exe
+D:\SaneiStore\SaneiStore\obj\Debug\SaneiStore.pdb
+D:\SaneiStore\SaneiStore\obj\Debug\SaneiStore.frm_Customer.resources
+D:\SaneiStore\SaneiStore\obj\Debug\SaneiStore.frm_CustomerList.resources
+D:\SaneiStore\SaneiStore\obj\Debug\SaneiStore.frm_StoreList.resources
+D:\SaneiStore\SaneiStore\obj\Debug\SaneiStore.frmMain.resources
